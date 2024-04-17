@@ -13,7 +13,7 @@ SIP UA library for client/b2bua using golang
 ## Running the examples
 
 ```bash
-git clone https://github.com/cloudwebrtc/go-sip-ua
+git clone https://github.com/skhayrulin/go-sip-ua
 cd go-sip-ua
 ```
 
